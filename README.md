@@ -1,3 +1,3 @@
 # PreviewCardComponent
 
-<img src = "screenshot.PNG" width = 1000px>
+<img src = "screenshot.PNG">
