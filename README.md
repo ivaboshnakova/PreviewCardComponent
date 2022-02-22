@@ -1,3 +1,2 @@
-# Screenshots
-# Desktop
+# Screenshot
 <img src = "screenshot.PNG">
