@@ -1,5 +1,3 @@
-# PreviewCardComponent
-<b>Screenshots</b>
-<hr>
-Desktop
+# Screenshots
+# Desktop
 <img src = "screenshot.PNG">
